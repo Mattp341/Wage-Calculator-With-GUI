@@ -1,0 +1,8 @@
+C:\Users\mpawlaczyk\documents\visual studio 2015\Projects\Official Wage Calculator\Official Wage Calculator\obj\Debug\Official_Wage_Calculator.Form1.resources
+C:\Users\mpawlaczyk\documents\visual studio 2015\Projects\Official Wage Calculator\Official Wage Calculator\obj\Debug\Official_Wage_Calculator.Properties.Resources.resources
+C:\Users\mpawlaczyk\documents\visual studio 2015\Projects\Official Wage Calculator\Official Wage Calculator\obj\Debug\Official Wage Calculator.csproj.GenerateResource.Cache
+C:\Users\mpawlaczyk\documents\visual studio 2015\Projects\Official Wage Calculator\Official Wage Calculator\bin\Debug\Official Wage Calculator.exe.config
+C:\Users\mpawlaczyk\documents\visual studio 2015\Projects\Official Wage Calculator\Official Wage Calculator\bin\Debug\Official Wage Calculator.exe
+C:\Users\mpawlaczyk\documents\visual studio 2015\Projects\Official Wage Calculator\Official Wage Calculator\bin\Debug\Official Wage Calculator.pdb
+C:\Users\mpawlaczyk\documents\visual studio 2015\Projects\Official Wage Calculator\Official Wage Calculator\obj\Debug\Official Wage Calculator.exe
+C:\Users\mpawlaczyk\documents\visual studio 2015\Projects\Official Wage Calculator\Official Wage Calculator\obj\Debug\Official Wage Calculator.pdb
