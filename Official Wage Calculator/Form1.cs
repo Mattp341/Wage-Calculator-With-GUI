@@ -1,3 +1,5 @@
+// This code is fucking garbage
+
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
